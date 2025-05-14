@@ -2,7 +2,7 @@
 
 Chatbot ช่างแอร์ด้วย AutoRAG
 
-Youtube: TBC
+Youtube: [LINE chatbot ด้วย Cloudflare AutoRAG - FAQ LLM project สำหรับคนใช้ LINE ทำงาน](https://youtu.be/ALKNEUiIjw4?si=cpSuY7mqS9RhGqrj)
 
 Note - ไอตัว Doc เก็บไปนั่งดูได้นะครับ ผมได้มาจากพ่อแค่นั้นแหละ 555555
 
