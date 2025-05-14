@@ -17,6 +17,10 @@ Note - ไอตัว Doc เก็บไปนั่งดูได้นะ�
 5. Cloudflare Worker ส่งข้อมูลกลับไปยัง LINE Reply API via REST
 6. LINE Official Account แสดงข้อมูลกลับมาให้ User
 
+## Example of what you will get after following this project
+
+![Example](./ExampleResult.jpg)
+
 ## Prerequisites
 
 - Cloudflare account + AutoRAG setup
